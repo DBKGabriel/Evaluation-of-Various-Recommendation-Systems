@@ -1,4 +1,4 @@
-# Evaluation-of-Various-Amazon-Recommendation-Systems
+# Evaluation-of-Various-Recommendation-Systems-Using-Amazon-Customer-Ratings-of-Electronics
 
 **Background**:
 Providing personalized recommendations relevant to individual users is the approach most likely to keep them engaged and increase business.
